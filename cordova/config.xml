@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-packageName="homoola.com.homoola" android-versionCode="2" id="homoola.com.homoola" version="0.2.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Tabris Maps Example</name>
+    <description>Examples for the Tabris.js maps custom widget.</description>
+    <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">EclipseSource</author>
+
+    <preference name="EnableDeveloperConsole" value="true" />
+
+    <plugin name="com.eclipsesource.tabris.maps" spec="https://github.com/eclipsesource/tabris-maps.git#:/plugin">
+        <variable name="ANDROID_API_KEY" value="AIzaSyDY0DZH5uDAzGudY2iVBcgWMK4dnt1zf2I" />
+    </plugin>
+
+</widget>
