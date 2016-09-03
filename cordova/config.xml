@@ -7,7 +7,7 @@
     <preference name="EnableDeveloperConsole" value="true" />
 
     <plugin name="com.eclipsesource.tabris.maps" spec="https://github.com/eclipsesource/tabris-maps.git#:/plugin">
-        <variable name="ANDROID_API_KEY" value="AIzaSyDY0DZH5uDAzGudY2iVBcgWMK4dnt1zf2I" />
+        <variable name="ANDROID_API_KEY" value="AIzaSyDa0rpeGUzMwko5pmEEhPY6NxskCbsxPB4" />
     </plugin>
 
 </widget>
