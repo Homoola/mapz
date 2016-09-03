@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-packageName="homoola.com.homoola" android-versionCode="2" id="homoola.com.homoola" version="0.2.0" xmlns="http://www.w3.org/ns/widgets">
+<widget android-packageName="com.wino.wino" android-versionCode="2" id="com.wino.wino" version="0.2.0" xmlns="http://www.w3.org/ns/widgets">
     <name>Tabris Maps Example</name>
     <description>Examples for the Tabris.js maps custom widget.</description>
     <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">EclipseSource</author>
